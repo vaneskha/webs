@@ -1,0 +1,227 @@
+.version.shochi__download /* version checker */
+{
+	color: #000014;
+	background-color: #A3481E;
+}
+
+#muse_css_mq
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 1000px;
+	min-height: 500px;
+	background-image: none;
+	border-width: 0px;
+	border-color: #000000;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	margin-top: -34px;
+	padding-bottom: 30px;
+	width: 0.01px;/* should not cover content below */
+}
+
+#pu2113
+{
+	width: 0.01px;
+	margin-left: -130px;
+}
+
+#u2113
+{
+	z-index: 2;
+	width: 1198px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 22px;
+	left: 31px;
+}
+
+#u2161
+{
+	z-index: 4;
+	width: 1280px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u2146
+{
+	z-index: 6;
+	width: 366px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1337px;
+	left: 254px;
+}
+
+#u2154
+{
+	z-index: 8;
+	width: 366px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1337px;
+	left: 643px;
+}
+
+#u2176
+{
+	z-index: 10;
+	width: 662px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 287px;
+	left: 152px;
+}
+
+#u2186-4
+{
+	z-index: 12;
+	width: 372px;
+	min-height: 29px;
+	background-color: transparent;
+	font-size: 21px;
+	line-height: 25px;
+	color: #FFFFFF;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 521px;
+	left: 150px;
+}
+
+#u2774-4
+{
+	z-index: 16;
+	width: 98px;
+	min-height: 21px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 115px;
+	left: 671px;
+}
+
+#u2775-4
+{
+	z-index: 20;
+	width: 98px;
+	min-height: 21px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 115px;
+	left: 778px;
+}
+
+#u2774-4:hover,#u2775-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 21px;
+	width: 98px;
+	margin: 115px -10000px 0px 0px;
+}
+
+#u2776-4
+{
+	z-index: 24;
+	width: 98px;
+	min-height: 21px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 115px;
+	left: 897px;
+}
+
+#u2777-4
+{
+	z-index: 28;
+	width: 98px;
+	min-height: 21px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 115px;
+	left: 1012px;
+}
+
+#u2775-4.MuseLinkActive,#u2776-4:hover,#u2777-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 21px;
+	width: 98px;
+	margin: 115px -10000px 0px 0px;
+}
+
+#u2782
+{
+	z-index: 42;
+	width: 106px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 72px;
+	left: 299px;
+}
+
+#u2778
+{
+	z-index: 32;
+	width: 1228px;
+	height: 1px;
+	left: -56px;
+	position: relative;
+}
+
+#u2779
+{
+	z-index: 33;
+	width: 246px;
+	margin-left: 377px;
+	margin-top: 12px;
+	position: relative;
+}
+
+#u2780-4
+{
+	z-index: 34;
+	width: 106px;
+	min-height: 18px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+}
+
+#u2781-4
+{
+	z-index: 38;
+	width: 106px;
+	min-height: 18px;
+	position: relative;
+	margin-right: -10000px;
+	left: 140px;
+}
+
+.html
+{
+	background: #FFFFFF url("../images/l-bg.png") no-repeat center center scroll;
+	background-size: cover;
+}
+
+body
+{
+	position: relative;
+	min-width: 1000px;
+}
+
